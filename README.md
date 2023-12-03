@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yukekaze
+- 👋 Hi, I’m @重组的分子式
 - 👀 I’m interested in Azur Lane
 - 🌱 I’m currently learning C#
 - 💞I hope to be friends with you on GitHub
